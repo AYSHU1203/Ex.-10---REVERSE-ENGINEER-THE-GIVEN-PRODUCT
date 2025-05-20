@@ -32,7 +32,11 @@
 
 
 ### Output:
-![443166183-b0b137cc-fe24-43ec-9f4c-0910dee4f8b7](https://github.com/user-attachments/assets/93d5cfbb-f291-4f74-a5c3-f72cc6f52072)
+![Screenshot 2025-05-20 174432](https://github.com/user-attachments/assets/665828a1-86c8-4b9d-a83d-68c2d361da69)
+
+
+![Screenshot 2025-05-20 174447](https://github.com/user-attachments/assets/2ccb7c16-421c-4192-9738-fca930989115)
+
 
 
 
